@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there, I'm Denys Hrebnov
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h2 align="center">DevOps Engineer from Ukraine :ukraine: </h2>
+<h2 align="center">DevOps Engineer from Ukraine 🌍</h2>
 
 - 📫 How to reach me **den.hrebnov@gmail.com**
 
@@ -24,6 +24,8 @@
 ---
 
 ![](https://komarev.com/ghpvc/?username=pokerfac333)
+
+### My GitHub stats :
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pokerfac333&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pokerfac333&theme=solarized_dark)
